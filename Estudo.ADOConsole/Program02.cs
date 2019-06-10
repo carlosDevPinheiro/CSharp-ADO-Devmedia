@@ -3,7 +3,7 @@ using System.Data;
 
 namespace Estudo.ADOConsole
 {
-    public static class ProgramFiltroDados
+    public static class Program02
     {
         public static void Main(string[] args)
         {

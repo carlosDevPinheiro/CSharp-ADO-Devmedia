@@ -3,7 +3,7 @@ using System.Data;
 
 namespace Estudo.ADOConsole
 {
-    class Program
+    class Program01
     {
         static void Main(string[] args)
         {
